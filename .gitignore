@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+
+deaths.csv
+you_died_template.png
+
