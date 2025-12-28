@@ -37,6 +37,7 @@ Take a screenshot of the death message.
 
 Crop only the central death text and save it as:
 
+text
 Skopiuj kod
 you_died_template.png
 in the project root directory.
@@ -105,6 +106,7 @@ Wykonaj zrzut ekranu komunikatu o śmierci.
 
 Wytnij centralny fragment z tekstem i zapisz go jako:
 
+text
 Skopiuj kod
 you_died_template.png
 w głównym katalogu projektu.
